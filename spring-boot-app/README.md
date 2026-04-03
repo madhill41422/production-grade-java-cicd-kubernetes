@@ -10,8 +10,8 @@ This is a MVC architecture based application where controller returns a page wit
 Checkout the repo and move to the directory
 
 ```
-git clone https://github.com/madhill41422/production-grade-java-cicd-kubernetes/tree/main/spring-boot-app
-cd production-grade-java-cicd-kubernetes/sprint-boot-app
+git clone https://github.com/madhill41422/Production-Grade-Java-CI-CD-Pipeline-on-Kubernetes/tree/main/spring-boot-app
+cd Production-Grade-Java-CI-CD-CD-Pipeline-kubernetes/sprint-boot-app
 ```
 
 Execute the Maven targets to generate the artifacts
